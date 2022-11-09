@@ -1,0 +1,927 @@
+.tickets,
+.tickets * {
+  box-sizing: border-box;
+}
+.tickets {
+  background: #ffffff;
+  width: 1440px;
+  height: 3017px;
+  position: relative;
+  overflow: hidden;
+}
+.bg {
+  background: #102437;
+  width: 1440px;
+  height: 494px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.image-1 {
+  width: 1771px;
+  height: 494px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.ellipse-733 {
+  background: #5cabf3;
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 1440px;
+  top: 170px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  filter: blur(200px);
+}
+.ellipse-734 {
+  background: #9085d1;
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 280px;
+  top: 170px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  filter: blur(200px);
+}
+.check-previous-and-current-tickets {
+  color: #ffffff;
+  text-align: center;
+  font: 600 70px/76px "Outfit";
+  position: absolute;
+  left: 292px;
+  top: 186px;
+  width: 856px;
+}
+.logo {
+  width: 98px;
+  height: 34px;
+  position: static;
+}
+.ma3pass {
+  text-align: left;
+  font: 600 24px/34px "Outfit";
+  position: absolute;
+  left: 135px;
+  top: 27px;
+}
+.ma3pass-span {
+  color: #ffffff;
+  font: 600 24px/34px "Outfit";
+}
+.ma3pass-span2 {
+  color: #867aca;
+  font: 600 24px/34px "Outfit";
+}
+.menu {
+  width: 390px;
+  height: 32px;
+  position: static;
+}
+.rectangle-121 {
+  background: #9085d1;
+  border-radius: 1px;
+  width: 78px;
+  height: 2px;
+  position: absolute;
+  left: 810px;
+  top: 61px;
+}
+.my-tickets {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 810px;
+  top: 31px;
+  width: 76px;
+  height: 23px;
+}
+.how-it-works {
+  color: #c3c8cd;
+  text-align: center;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 585px;
+  top: 31px;
+  width: 93px;
+  height: 25.13px;
+}
+.home {
+  color: #c3c8cd;
+  text-align: center;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 498px;
+  top: 31px;
+  width: 48px;
+  height: 25.13px;
+}
+.routes {
+  color: #c3c8cd;
+  text-align: center;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 717px;
+  top: 31px;
+  width: 54px;
+  height: 25px;
+}
+.button {
+  width: 119px;
+  height: 48px;
+  position: static;
+}
+.rectangle-9 {
+  background: #9085d1;
+  border-radius: 24px;
+  width: 119px;
+  height: 48px;
+  position: absolute;
+  left: 1186px;
+  top: 20px;
+}
+.my-account {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px/26px "Outfit";
+  position: absolute;
+  left: 1203px;
+  top: 31px;
+}
+.rectangle-180 {
+  background: #102437;
+  border-radius: 51px;
+  width: 618px;
+  height: 403px;
+  position: absolute;
+  left: 66px;
+  top: 625px;
+  box-shadow: 0px 4px 80px 0px rgba(115, 113, 113, 0.25);
+}
+.texts {
+  width: 413px;
+  height: 44px;
+  position: static;
+}
+.ticket-no--035672391 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 38px/56px "Outfit";
+  text-decoration: underline;
+  position: absolute;
+  left: 169px;
+  top: 678px;
+  width: 413px;
+  height: 44px;
+}
+.nairobi {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 107px;
+  top: 759px;
+  width: 112px;
+}
+.mombasa {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 491px;
+  top: 759px;
+  width: 153px;
+}
+.arrow-6 {
+  position: absolute;
+  left: 291px;
+  top: 788px;
+  transform: translate(0px, -11.05px);
+  overflow: visible;
+}
+.easycoach-buses {
+  color: #ffffff;
+  text-align: left;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 107px;
+  top: 918px;
+  width: 263px;
+}
+.ksh-1500 {
+  color: #ffffff;
+  text-align: right;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 478px;
+  top: 918px;
+  width: 166px;
+}
+.rectangle-181 {
+  background: #102437;
+  border-radius: 51px;
+  width: 618px;
+  height: 403px;
+  position: absolute;
+  left: 760px;
+  top: 625px;
+  box-shadow: 0px 4px 80px 0px rgba(115, 113, 113, 0.25);
+}
+.ticket-no--0356723912 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 38px/56px "Outfit";
+  text-decoration: underline;
+  position: absolute;
+  left: 863px;
+  top: 678px;
+  width: 413px;
+  height: 44px;
+}
+.nairobi2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 801px;
+  top: 759px;
+  width: 112px;
+}
+.mombasa2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 1185px;
+  top: 759px;
+  width: 153px;
+}
+.arrow-7 {
+  position: absolute;
+  left: 985px;
+  top: 788px;
+  transform: translate(0px, -11.05px);
+  overflow: visible;
+}
+.easycoach-buses2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 801px;
+  top: 918px;
+  width: 263px;
+}
+.ksh-15002 {
+  color: #ffffff;
+  text-align: right;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 1172px;
+  top: 918px;
+  width: 166px;
+}
+.rectangle-184 {
+  background: #102437;
+  border-radius: 51px;
+  width: 618px;
+  height: 403px;
+  position: absolute;
+  left: 66px;
+  top: 1635px;
+  box-shadow: 0px 4px 80px 0px rgba(115, 113, 113, 0.25);
+}
+.ticket-no--0356723913 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 38px/56px "Outfit";
+  text-decoration: underline;
+  position: absolute;
+  left: 169px;
+  top: 1688px;
+  width: 413px;
+  height: 44px;
+}
+.nairobi3 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 107px;
+  top: 1769px;
+  width: 112px;
+}
+.mombasa3 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 491px;
+  top: 1769px;
+  width: 153px;
+}
+.arrow-10 {
+  position: absolute;
+  left: 291px;
+  top: 1798px;
+  transform: translate(0px, -11.05px);
+  overflow: visible;
+}
+.easycoach-buses3 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 107px;
+  top: 1928px;
+  width: 263px;
+}
+.ksh-15003 {
+  color: #ffffff;
+  text-align: right;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 478px;
+  top: 1928px;
+  width: 166px;
+}
+.rectangle-185 {
+  background: #102437;
+  border-radius: 51px;
+  width: 618px;
+  height: 403px;
+  position: absolute;
+  left: 760px;
+  top: 1635px;
+  box-shadow: 0px 4px 80px 0px rgba(115, 113, 113, 0.25);
+}
+.ticket-no--0356723914 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 38px/56px "Outfit";
+  text-decoration: underline;
+  position: absolute;
+  left: 863px;
+  top: 1688px;
+  width: 413px;
+  height: 44px;
+}
+.nairobi4 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 801px;
+  top: 1769px;
+  width: 112px;
+}
+.mombasa4 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 1185px;
+  top: 1769px;
+  width: 153px;
+}
+.arrow-11 {
+  position: absolute;
+  left: 985px;
+  top: 1798px;
+  transform: translate(0px, -11.05px);
+  overflow: visible;
+}
+.easycoach-buses4 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 801px;
+  top: 1928px;
+  width: 263px;
+}
+.ksh-15004 {
+  color: #ffffff;
+  text-align: right;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 1172px;
+  top: 1928px;
+  width: 166px;
+}
+.rectangle-182 {
+  background: #102437;
+  border-radius: 51px;
+  width: 618px;
+  height: 403px;
+  position: absolute;
+  left: 63px;
+  top: 1130px;
+  box-shadow: 0px 4px 80px 0px rgba(115, 113, 113, 0.25);
+}
+.ticket-no--0356723915 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 38px/56px "Outfit";
+  text-decoration: underline;
+  position: absolute;
+  left: 166px;
+  top: 1183px;
+  width: 413px;
+  height: 44px;
+}
+.nairobi5 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 104px;
+  top: 1264px;
+  width: 112px;
+}
+.thur--5th-nov-2022-at-7-30-am {
+  color: #9085d1;
+  text-align: center;
+  font: 400 33px/56px "Outfit";
+  position: absolute;
+  left: 127px;
+  top: 1330px;
+  width: 451px;
+}
+.thur--5th-nov-2022-at-7-30-am2 {
+  color: #9085d1;
+  text-align: center;
+  font: 400 33px/56px "Outfit";
+  position: absolute;
+  left: 127px;
+  top: 825px;
+  width: 451px;
+}
+.thur--5th-nov-2022-at-7-30-am3 {
+  color: #9085d1;
+  text-align: center;
+  font: 400 33px/56px "Outfit";
+  position: absolute;
+  left: 840px;
+  top: 825px;
+  width: 451px;
+}
+.mombasa5 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 488px;
+  top: 1264px;
+  width: 153px;
+}
+.arrow-8 {
+  position: absolute;
+  left: 288px;
+  top: 1293px;
+  transform: translate(0px, -11.05px);
+  overflow: visible;
+}
+.easycoach-buses5 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 104px;
+  top: 1423px;
+  width: 263px;
+}
+.ksh-15005 {
+  color: #ffffff;
+  text-align: right;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 475px;
+  top: 1423px;
+  width: 166px;
+}
+.rectangle-183 {
+  background: #102437;
+  border-radius: 51px;
+  width: 618px;
+  height: 403px;
+  position: absolute;
+  left: 757px;
+  top: 1130px;
+  box-shadow: 0px 4px 80px 0px rgba(115, 113, 113, 0.25);
+}
+.ticket-no--0356723916 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 38px/56px "Outfit";
+  text-decoration: underline;
+  position: absolute;
+  left: 860px;
+  top: 1183px;
+  width: 413px;
+  height: 44px;
+}
+.nairobi6 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 798px;
+  top: 1264px;
+  width: 112px;
+}
+.mombasa6 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 1182px;
+  top: 1264px;
+  width: 153px;
+}
+.arrow-9 {
+  position: absolute;
+  left: 982px;
+  top: 1293px;
+  transform: translate(0px, -11.05px);
+  overflow: visible;
+}
+.easycoach-buses6 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 798px;
+  top: 1423px;
+  width: 263px;
+}
+.ksh-15006 {
+  color: #ffffff;
+  text-align: right;
+  font: 600 33px/56px "Outfit";
+  position: absolute;
+  left: 1169px;
+  top: 1423px;
+  width: 166px;
+}
+.group-17558 {
+  width: 1440px;
+  height: 424px;
+  position: static;
+}
+.bg2 {
+  background: #102437;
+  width: 1440px;
+  height: 424px;
+  position: absolute;
+  left: 0px;
+  top: 2593px;
+}
+.group-17556 {
+  width: 1440px;
+  height: 129.89px;
+  position: static;
+}
+.ellipse-7332 {
+  background: #5cabf3;
+  border-radius: 50%;
+  width: 280px;
+  height: 129.89px;
+  position: absolute;
+  left: 1440px;
+  top: 2671.86px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  filter: blur(200px);
+}
+.ellipse-7342 {
+  background: #9085d1;
+  border-radius: 50%;
+  width: 280px;
+  height: 129.89px;
+  position: absolute;
+  left: 280px;
+  top: 2671.86px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  filter: blur(200px);
+}
+.rectangle-179 {
+  background: #2f4156;
+  width: 1170px;
+  height: 1px;
+  position: absolute;
+  left: 135px;
+  top: 2916px;
+}
+.term---condition {
+  color: #7f858a;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 135px;
+  top: 2945px;
+}
+.privacy---policy {
+  color: #7f858a;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 352px;
+  top: 2945px;
+}
+.ma3pass-2022 {
+  color: #7f858a;
+  text-align: right;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1195px;
+  top: 2945px;
+}
+.menu-3 {
+  width: 74px;
+  height: 178px;
+  position: static;
+}
+.social {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/26px "Outfit";
+  position: absolute;
+  left: 1231px;
+  top: 2683px;
+}
+.instagram {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1231px;
+  top: 2729px;
+}
+.facebook {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1231px;
+  top: 2765px;
+}
+.twitter {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1231px;
+  top: 2801px;
+}
+.linkedin {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1231px;
+  top: 2837px;
+}
+.menu-1 {
+  width: 90px;
+  height: 178px;
+  position: static;
+}
+.menu2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/26px "Outfit";
+  position: absolute;
+  left: 1096px;
+  top: 2683px;
+}
+.home2 {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1096px;
+  top: 2729px;
+}
+.how-it-works2 {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1096px;
+  top: 2765px;
+}
+.routes2 {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1096px;
+  top: 2801px;
+}
+.my-tickets2 {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1096px;
+  top: 2837px;
+}
+.group-458 {
+  width: 290px;
+  height: 130px;
+  position: static;
+}
+.search--book-and-pay-for-your-matatu-ticket-the-easy-way-with-ma3pass--travel-with-convenience {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 135px;
+  top: 2759px;
+  width: 290px;
+}
+.ma3pass2 {
+  text-align: left;
+  font: 600 24px/34px "Outfit";
+  position: absolute;
+  left: 135px;
+  top: 2707px;
+}
+.ma3pass2-span {
+  color: #ffffff;
+  font: 600 24px/34px "Outfit";
+}
+.ma3pass2-span2 {
+  color: #9085d1;
+  font: 600 24px/34px "Outfit";
+}
+.bg3 {
+  background: #9085d1;
+  width: 1440px;
+  height: 425px;
+  position: absolute;
+  left: 0px;
+  top: 2168px;
+}
+.group-66 {
+  width: 178px;
+  height: 178px;
+  position: static;
+}
+.ellipse-35 {
+  background: #867aca;
+  border-radius: 50%;
+  width: 146px;
+  height: 146px;
+  position: absolute;
+  left: 151px;
+  top: 2308px;
+}
+.ellipse-36 {
+  border-radius: 50%;
+  border: solid #867aca;
+  border-width: 1px;
+  width: 178px;
+  height: 178px;
+  position: absolute;
+  left: 135px;
+  top: 2292px;
+}
+.group-67 {
+  width: 197.79px;
+  height: 233.43px;
+  position: static;
+}
+.rectangle-176 {
+  background: #867aca;
+  width: 146px;
+  height: 184px;
+  position: absolute;
+  left: 1150.29px;
+  top: 2276.93px;
+  transform-origin: 0 0;
+  transform: rotate(10.052deg) scale(1, 1);
+}
+.rectangle-177 {
+  border: solid #867aca;
+  border-width: 1px;
+  width: 164px;
+  height: 208px;
+  position: absolute;
+  left: 1143.31px;
+  top: 2264px;
+  transform-origin: 0 0;
+  transform: rotate(10.052deg) scale(1, 1);
+}
+.group-457 {
+  width: 554px;
+  height: 245px;
+  position: static;
+}
+.bar {
+  width: 422px;
+  height: 64px;
+  position: static;
+}
+.mail {
+  width: 422px;
+  height: 64px;
+  position: static;
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 32px;
+  width: 422px;
+  height: 64px;
+  position: absolute;
+  left: 509px;
+  top: 2439px;
+  box-shadow: 0px 14px 28px 0px rgba(0, 0, 0, 0.05);
+}
+.input-your-email--- {
+  color: #a1a3b6;
+  text-align: left;
+  font: 400 18px/28px "Outfit";
+  position: absolute;
+  left: 537px;
+  top: 2457px;
+}
+.button2 {
+  width: 139px;
+  height: 54px;
+  position: static;
+}
+.rectangle-5 {
+  background: #102437;
+  border-radius: 32.5px;
+  width: 139px;
+  height: 54px;
+  position: absolute;
+  left: 787px;
+  top: 2444px;
+}
+.try-for-free {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px/28px "Outfit";
+  position: absolute;
+  left: 810px;
+  top: 2457px;
+}
+.texts2 {
+  width: 554px;
+  height: 100px;
+  position: static;
+}
+.get-notified-of-new-routes-and-discounts-on-the-go {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 537px;
+  top: 2332px;
+  width: 406px;
+}
+.subscribe-our-newsletter {
+  color: #ffffff;
+  text-align: center;
+  font: 600 50px/56px "Outfit";
+  position: absolute;
+  left: 463px;
+  top: 2258px;
+  width: 554px;
+}
+.thur--5th-nov-2022-at-7-30-am4 {
+  color: #9085d1;
+  text-align: center;
+  font: 400 33px/56px "Outfit";
+  position: absolute;
+  left: 127px;
+  top: 1835px;
+  width: 451px;
+}
+.thur--5th-nov-2022-at-7-30-am5 {
+  color: #9085d1;
+  text-align: center;
+  font: 400 33px/56px "Outfit";
+  position: absolute;
+  left: 840px;
+  top: 1835px;
+  width: 451px;
+}
+.thur--5th-nov-2022-at-7-30-am6 {
+  color: #9085d1;
+  text-align: center;
+  font: 400 33px/56px "Outfit";
+  position: absolute;
+  left: 840px;
+  top: 1330px;
+  width: 451px;
+}
