@@ -1,0 +1,808 @@
+.select-bus,
+.select-bus * {
+  box-sizing: border-box;
+}
+.select-bus {
+  background: #ffffff;
+  width: 1440px;
+  height: 2531px;
+  position: relative;
+  overflow: hidden;
+}
+.bg {
+  background: #102437;
+  width: 1440px;
+  height: 494px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.image-1 {
+  width: 1771px;
+  height: 494px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.ellipse-733 {
+  background: #5cabf3;
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 1440px;
+  top: 170px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  filter: blur(200px);
+}
+.ellipse-734 {
+  background: #9085d1;
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 280px;
+  top: 170px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  filter: blur(200px);
+}
+.rectangle-180 {
+  background: #ffffff;
+  border-radius: 51px;
+  width: 1235px;
+  height: 232px;
+  position: absolute;
+  left: 103px;
+  top: 593px;
+  box-shadow: 0px 4px 80px 0px rgba(115, 113, 113, 0.25);
+}
+.rectangle-9 {
+  background: #9085d1;
+  border-radius: 26px;
+  width: 239px;
+  height: 58px;
+  position: absolute;
+  left: 1029px;
+  top: 704px;
+}
+.book-now {
+  color: #ffffff;
+  text-align: center;
+  font: 600 22px/26px "Outfit";
+  position: absolute;
+  left: 1085px;
+  top: 719px;
+  width: 126.88px;
+  height: 29px;
+}
+.departure-time {
+  color: #9085d1;
+  text-align: center;
+  font: 600 22px/26px "Outfit";
+  position: absolute;
+  left: 638px;
+  top: 653px;
+  width: 168px;
+  height: 29px;
+}
+.from-nairobi-bus-station {
+  color: #000000;
+  text-align: center;
+  font: 600 22px/26px "Outfit";
+  position: absolute;
+  left: 598px;
+  top: 737px;
+  width: 255px;
+  height: 29px;
+}
+.select-one-of-the-buses-plying-your-route {
+  color: #ffffff;
+  text-align: center;
+  font: 600 70px/76px "Outfit";
+  position: absolute;
+  left: 292px;
+  top: 186px;
+  width: 856px;
+}
+.texts {
+  width: 216px;
+  height: 44px;
+  position: static;
+}
+._8-30-am {
+  color: #102437;
+  text-align: center;
+  font: 600 50px/56px "Outfit";
+  position: absolute;
+  left: 614px;
+  top: 679px;
+  width: 216px;
+  height: 44px;
+}
+.ksh-1-500 {
+  color: #102437;
+  text-align: center;
+  font: 600 38px/56px "Outfit";
+  position: absolute;
+  left: 1040px;
+  top: 638px;
+  width: 216px;
+  height: 44px;
+}
+.logo {
+  width: 98px;
+  height: 34px;
+  position: static;
+}
+.ma3pass {
+  text-align: left;
+  font: 600 24px/34px "Outfit";
+  position: absolute;
+  left: 135px;
+  top: 27px;
+}
+.ma3pass-span {
+  color: #ffffff;
+  font: 600 24px/34px "Outfit";
+}
+.ma3pass-span2 {
+  color: #867aca;
+  font: 600 24px/34px "Outfit";
+}
+.menu {
+  width: 382px;
+  height: 32px;
+  position: static;
+}
+.rectangle-121 {
+  background: #9085d1;
+  border-radius: 1px;
+  width: 48px;
+  height: 2px;
+  position: absolute;
+  left: 717px;
+  top: 61px;
+}
+.routes {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 717px;
+  top: 31px;
+  width: 48px;
+  height: 23px;
+}
+.how-it-works {
+  color: #c3c8cd;
+  text-align: center;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 585px;
+  top: 31px;
+  width: 93px;
+  height: 25.13px;
+}
+.home {
+  color: #c3c8cd;
+  text-align: center;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 498px;
+  top: 31px;
+  width: 48px;
+  height: 25.13px;
+}
+.my-tickets {
+  color: #c3c8cd;
+  text-align: center;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 805px;
+  top: 31px;
+  width: 75px;
+  height: 25.13px;
+}
+.button {
+  width: 119px;
+  height: 48px;
+  position: static;
+}
+.rectangle-92 {
+  background: #9085d1;
+  border-radius: 24px;
+  width: 119px;
+  height: 48px;
+  position: absolute;
+  left: 1186px;
+  top: 20px;
+}
+.my-account {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px/26px "Outfit";
+  position: absolute;
+  left: 1203px;
+  top: 31px;
+}
+.image-14 {
+  width: 247px;
+  height: 75px;
+  position: absolute;
+  left: 192px;
+  top: 637px;
+}
+.texts2 {
+  width: 211px;
+  height: 56px;
+  position: static;
+}
+.easycoach-buses {
+  color: #102437;
+  text-align: center;
+  font: 600 25px/56px "Outfit";
+  position: absolute;
+  left: 198px;
+  top: 725px;
+  width: 211px;
+}
+.line-2 {
+  border: solid #c3c8cd;
+  border-width: 0.5px 0 0 0;
+  width: 237.03px;
+  height: 0px;
+  position: absolute;
+  left: 184px;
+  top: 725px;
+}
+.rectangle-181 {
+  background: #ffffff;
+  border-radius: 51px;
+  width: 1235px;
+  height: 232px;
+  position: absolute;
+  left: 103px;
+  top: 902px;
+  box-shadow: 0px 4px 80px 0px rgba(115, 113, 113, 0.25);
+}
+.rectangle-182 {
+  background: #9085d1;
+  border-radius: 26px;
+  width: 239px;
+  height: 58px;
+  position: absolute;
+  left: 1029px;
+  top: 1013px;
+}
+.book-now2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 22px/26px "Outfit";
+  position: absolute;
+  left: 1085px;
+  top: 1028px;
+  width: 126.88px;
+  height: 29px;
+}
+.departure-time2 {
+  color: #9085d1;
+  text-align: center;
+  font: 600 22px/26px "Outfit";
+  position: absolute;
+  left: 638px;
+  top: 962px;
+  width: 168px;
+  height: 29px;
+}
+.from-nairobi-bus-station2 {
+  color: #000000;
+  text-align: center;
+  font: 600 22px/26px "Outfit";
+  position: absolute;
+  left: 598px;
+  top: 1046px;
+  width: 255px;
+  height: 29px;
+}
+._9-30-am {
+  color: #102437;
+  text-align: center;
+  font: 600 50px/56px "Outfit";
+  position: absolute;
+  left: 614px;
+  top: 988px;
+  width: 216px;
+  height: 44px;
+}
+.image-15 {
+  width: 247px;
+  height: 75px;
+  position: absolute;
+  left: 192px;
+  top: 946px;
+}
+.easycoach-buses2 {
+  color: #102437;
+  text-align: center;
+  font: 600 25px/56px "Outfit";
+  position: absolute;
+  left: 198px;
+  top: 1034px;
+  width: 211px;
+}
+.texts3 {
+  width: 172px;
+  height: 18px;
+  position: absolute;
+  left: 105.02px;
+  top: 1572px;
+}
+.other-routes {
+  color: #102437;
+  text-align: left;
+  font: 700 30px/18px "Outfit";
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.line-1 {
+  position: absolute;
+  left: 103px;
+  top: 1607.5px;
+  overflow: visible;
+}
+.arrow-5 {
+  position: absolute;
+  left: 300.02px;
+  top: 1583px;
+  overflow: visible;
+}
+.line-3 {
+  border: solid #c3c8cd;
+  border-width: 0.5px 0 0 0;
+  width: 237.03px;
+  height: 0px;
+  position: absolute;
+  left: 184px;
+  top: 1034px;
+}
+.ksh-1-300 {
+  color: #102437;
+  text-align: center;
+  font: 600 38px/56px "Outfit";
+  position: absolute;
+  left: 1040px;
+  top: 947px;
+  width: 216px;
+  height: 44px;
+}
+.rectangle-183 {
+  background: #ffffff;
+  border-radius: 51px;
+  width: 1235px;
+  height: 232px;
+  position: absolute;
+  left: 103px;
+  top: 1211px;
+  box-shadow: 0px 4px 80px 0px rgba(115, 113, 113, 0.25);
+}
+.rectangle-184 {
+  background: #9085d1;
+  border-radius: 26px;
+  width: 239px;
+  height: 58px;
+  position: absolute;
+  left: 1029px;
+  top: 1322px;
+}
+.book-now3 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 22px/26px "Outfit";
+  position: absolute;
+  left: 1085px;
+  top: 1337px;
+  width: 126.88px;
+  height: 29px;
+}
+.departure-time3 {
+  color: #9085d1;
+  text-align: center;
+  font: 600 22px/26px "Outfit";
+  position: absolute;
+  left: 638px;
+  top: 1271px;
+  width: 168px;
+  height: 29px;
+}
+.from-nairobi-bus-station3 {
+  color: #000000;
+  text-align: center;
+  font: 600 22px/26px "Outfit";
+  position: absolute;
+  left: 598px;
+  top: 1355px;
+  width: 255px;
+  height: 29px;
+}
+._7-30-pm {
+  color: #102437;
+  text-align: center;
+  font: 600 50px/56px "Outfit";
+  position: absolute;
+  left: 614px;
+  top: 1297px;
+  width: 216px;
+  height: 44px;
+}
+.group-17558 {
+  width: 1440px;
+  height: 424px;
+  position: static;
+}
+.bg2 {
+  background: #102437;
+  width: 1440px;
+  height: 424px;
+  position: absolute;
+  left: 0px;
+  top: 2107px;
+}
+.group-17556 {
+  width: 1440px;
+  height: 129.89px;
+  position: static;
+}
+.ellipse-7332 {
+  background: #5cabf3;
+  border-radius: 50%;
+  width: 280px;
+  height: 129.89px;
+  position: absolute;
+  left: 1440px;
+  top: 2185.86px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  filter: blur(200px);
+}
+.ellipse-7342 {
+  background: #9085d1;
+  border-radius: 50%;
+  width: 280px;
+  height: 129.89px;
+  position: absolute;
+  left: 280px;
+  top: 2185.86px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  filter: blur(200px);
+}
+.rectangle-179 {
+  background: #2f4156;
+  width: 1170px;
+  height: 1px;
+  position: absolute;
+  left: 135px;
+  top: 2430px;
+}
+.term---condition {
+  color: #7f858a;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 135px;
+  top: 2459px;
+}
+.privacy---policy {
+  color: #7f858a;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 352px;
+  top: 2459px;
+}
+.ma3pass-2022 {
+  color: #7f858a;
+  text-align: right;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1195px;
+  top: 2459px;
+}
+.menu-3 {
+  width: 74px;
+  height: 178px;
+  position: static;
+}
+.social {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/26px "Outfit";
+  position: absolute;
+  left: 1231px;
+  top: 2197px;
+}
+.instagram {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1231px;
+  top: 2243px;
+}
+.facebook {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1231px;
+  top: 2279px;
+}
+.twitter {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1231px;
+  top: 2315px;
+}
+.linkedin {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1231px;
+  top: 2351px;
+}
+.menu-1 {
+  width: 90px;
+  height: 178px;
+  position: static;
+}
+.menu2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/26px "Outfit";
+  position: absolute;
+  left: 1096px;
+  top: 2197px;
+}
+.home2 {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1096px;
+  top: 2243px;
+}
+.how-it-works2 {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1096px;
+  top: 2279px;
+}
+.routes2 {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1096px;
+  top: 2315px;
+}
+.my-tickets2 {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/24px "Outfit";
+  position: absolute;
+  left: 1096px;
+  top: 2351px;
+}
+.group-458 {
+  width: 290px;
+  height: 130px;
+  position: static;
+}
+.search--book-and-pay-for-your-matatu-ticket-the-easy-way-with-ma3pass--travel-with-convenience {
+  color: #c3c8cd;
+  text-align: left;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 135px;
+  top: 2273px;
+  width: 290px;
+}
+.ma3pass2 {
+  text-align: left;
+  font: 600 24px/34px "Outfit";
+  position: absolute;
+  left: 135px;
+  top: 2221px;
+}
+.ma3pass2-span {
+  color: #ffffff;
+  font: 600 24px/34px "Outfit";
+}
+.ma3pass2-span2 {
+  color: #9085d1;
+  font: 600 24px/34px "Outfit";
+}
+.bg3 {
+  background: #9085d1;
+  width: 1440px;
+  height: 425px;
+  position: absolute;
+  left: 0px;
+  top: 1682px;
+}
+.group-66 {
+  width: 178px;
+  height: 178px;
+  position: static;
+}
+.ellipse-35 {
+  background: #867aca;
+  border-radius: 50%;
+  width: 146px;
+  height: 146px;
+  position: absolute;
+  left: 151px;
+  top: 1822px;
+}
+.ellipse-36 {
+  border-radius: 50%;
+  border: solid #867aca;
+  border-width: 1px;
+  width: 178px;
+  height: 178px;
+  position: absolute;
+  left: 135px;
+  top: 1806px;
+}
+.group-67 {
+  width: 197.79px;
+  height: 233.43px;
+  position: static;
+}
+.rectangle-176 {
+  background: #867aca;
+  width: 146px;
+  height: 184px;
+  position: absolute;
+  left: 1150.29px;
+  top: 1790.93px;
+  transform-origin: 0 0;
+  transform: rotate(10.052deg) scale(1, 1);
+}
+.rectangle-177 {
+  border: solid #867aca;
+  border-width: 1px;
+  width: 164px;
+  height: 208px;
+  position: absolute;
+  left: 1143.31px;
+  top: 1778px;
+  transform-origin: 0 0;
+  transform: rotate(10.052deg) scale(1, 1);
+}
+.group-457 {
+  width: 554px;
+  height: 245px;
+  position: static;
+}
+.bar {
+  width: 422px;
+  height: 64px;
+  position: static;
+}
+.mail {
+  width: 422px;
+  height: 64px;
+  position: static;
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 32px;
+  width: 422px;
+  height: 64px;
+  position: absolute;
+  left: 509px;
+  top: 1953px;
+  box-shadow: 0px 14px 28px 0px rgba(0, 0, 0, 0.05);
+}
+.input-your-email--- {
+  color: #a1a3b6;
+  text-align: left;
+  font: 400 18px/28px "Outfit";
+  position: absolute;
+  left: 537px;
+  top: 1971px;
+}
+.button2 {
+  width: 139px;
+  height: 54px;
+  position: static;
+}
+.rectangle-5 {
+  background: #102437;
+  border-radius: 32.5px;
+  width: 139px;
+  height: 54px;
+  position: absolute;
+  left: 787px;
+  top: 1958px;
+}
+.try-for-free {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px/28px "Outfit";
+  position: absolute;
+  left: 810px;
+  top: 1971px;
+}
+.texts4 {
+  width: 554px;
+  height: 100px;
+  position: static;
+}
+.get-notified-of-new-routes-and-discounts-on-the-go {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/26px "Outfit";
+  position: absolute;
+  left: 537px;
+  top: 1846px;
+  width: 406px;
+}
+.subscribe-our-newsletter {
+  color: #ffffff;
+  text-align: center;
+  font: 600 50px/56px "Outfit";
+  position: absolute;
+  left: 463px;
+  top: 1772px;
+  width: 554px;
+}
+.texts5 {
+  width: 223px;
+  height: 56px;
+  position: static;
+}
+.greenline-coaches {
+  color: #102437;
+  text-align: center;
+  font: 600 25px/56px "Outfit";
+  position: absolute;
+  left: 187px;
+  top: 1341px;
+  width: 223px;
+}
+.line-4 {
+  border: solid #c3c8cd;
+  border-width: 0.5px 0 0 0;
+  width: 237.03px;
+  height: 0px;
+  position: absolute;
+  left: 184px;
+  top: 1343px;
+}
+.ksh-2-000 {
+  color: #102437;
+  text-align: center;
+  font: 600 38px/56px "Outfit";
+  position: absolute;
+  left: 1040px;
+  top: 1256px;
+  width: 216px;
+  height: 44px;
+}
+.image-17 {
+  width: 169px;
+  height: 107px;
+  position: absolute;
+  left: 219px;
+  top: 1234px;
+}
