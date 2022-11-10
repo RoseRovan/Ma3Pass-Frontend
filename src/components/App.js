@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Routes>
         <Route path='/' element = {<LandingPage/>}/>
-        <Route path='./selectbus/*' element= {<SelectBus/>}/>
+        <Route path='/selectbus' element= {<SelectBus/>}/>
       </Routes>
     </div>
   );

@@ -1,7 +1,8 @@
 import "./LandingPage.css";
 import React from "react";
 import { Link } from "react-router-dom"
-import { SelectBus } from "./selectbus";
+// import { SelectBus } from "./selectbus";
+import { Route, Routes } from "react-router-dom";
 
 export const LandingPage = ({ ...props }) => {
   return (
@@ -167,7 +168,11 @@ export const LandingPage = ({ ...props }) => {
           {/* <NavLink to="/selectbus"> */}
           <div className="button3">
             <div className="rectangle-52"></div>
-            <Link to="./selectbus"><button className="search">Search</button></Link> 
+            <Link to="/selectbus"><button className="search" onClick={()=>{
+              <Routes>
+              <Route path={`/selectbus`} />
+              </Routes>
+            }}>Search</button></Link> 
           </div>
           {/* </NavLink> */}
         </div>
